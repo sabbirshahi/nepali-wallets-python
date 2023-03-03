@@ -10,6 +10,7 @@ packages = [{ include = "nepali_wallets" }]
 [tool.poetry.dependencies]
 python = "^3.7"
 requests = "^2.27.1"
+cryptography = "37.0.4"
 
 
 [tool.poetry.group.dev.dependencies]
